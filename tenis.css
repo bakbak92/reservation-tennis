@@ -1,0 +1,23 @@
+    
+    legend{
+        text-transform: uppercase;
+    }
+    
+    
+    input{
+        border:2px solid #4e4e4e;
+        width: 200px;
+    }
+    #form label{
+             margin: 7px;
+             color:grey;
+    }
+    #submit{
+        width: auto;
+        padding: 5px;
+        cursor: pointer;
+        background: lightslategrey;
+    }
+    #form{
+        padding: 20px;
+    }
